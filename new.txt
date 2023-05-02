@@ -1,4 +1,4 @@
 Fullname - Huriak Ivan Ihorevich
 Age - 30
 Count of pets - 1
-Future salary 1000$
+Future salary - 1000$
