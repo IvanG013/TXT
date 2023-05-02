@@ -1,1 +1,14 @@
-
+Bug_report:
+ID: 1;
+Summary: The menu title [Prof] cannot be clicked;
+Version Windows: 11 pro;
+Steps: 
+1) Navigate to car.com, 
+2) Select  one of the licenses FCA, CYSEC, 
+3) Select EN language, lick on the  menu section [Ways], 
+4) Click on the menu title [Professional Tr]
+Actual result: The menu title [Professional Tr] cannot be clicked;
+Expected result: The menu title [Professional Tr]  click is available;
+Severity: Minor;
+Priority: Low;
+Attachments: Screenshots;
