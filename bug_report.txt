@@ -11,4 +11,4 @@ Actual result: The menu title [Professional Tr] cannot be clicked;
 Expected result: The menu title [Professional Tr]  click is available;
 Severity: Minor;
 Priority: Low;
-Attachments: Screenshots;
+Attachments: Screenshots.
