@@ -1,0 +1,19 @@
+ My skills:
+-Basic_theory - What is testing, bug reports,   documentation, types, SDLC, STLC;
+-Client_server - client-server architecture;
+-Request_methods to server - HTTP;
+-Structure - JSON, XML;
+-Dev Tools of web browsers - Google Chrome, FireFox;
+-Testing - Mobile;
+-ADB - android device management;
+-Setup proxy and vpn on iOS and Android;
+-Interception (sniffing) of mobile traffic - Charles and  Fiddler on iOS and Android;
+-Basic bash scripting - automating routine tasks on the server;
+-Access to remote servers;
+-SQL Basics - Create, Delete, Drop, Insert Into, Select, From, Where, Join;
+-Database - Postgres, installation, configuration and use;
+-Load_testing - Jmeter;
+-Development methodology - Scrum;
+-Python - Learning the basics. Creating a client-server application;
+-API testing - Postman (JS, API autotests);
+-Removing and reading logs from an external server.
